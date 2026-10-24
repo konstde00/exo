@@ -125,7 +125,7 @@ module UEq {
           |  Scale( int coeff, expr e )
 
 } """,
-    {
+    ext_types={
         "sym": Sym,
     },
 )

@@ -2,7 +2,7 @@
 #    uv export --all-groups --no-hashes --no-emit-project -o requirements.txt
 asdl==0.1.5
     # via asdl-adt
-asdl-adt==0.1.0
+asdl-adt==0.2.0
     # via exo-lang
 attrs==25.4.0
     # via asdl-adt

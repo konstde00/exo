@@ -37,7 +37,7 @@ classifiers = [
 
 dependencies = [
     "PySMT>=0.9.6",
-    "asdl-adt>=0.1,<0.2",
+    "asdl-adt>=0.1,<0.3",
     "yapf>=0.43",
     "z3-solver>=4.15,<4.15.5",
 ]
